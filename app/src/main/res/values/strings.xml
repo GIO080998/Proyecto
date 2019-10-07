@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="principal">Bienvenido a tu tienda de computadoras.</string>
+
+    <string name="menu">Bienvenido Departamento de Tecnologia.</string>
+    <string name="boton1">HP</string>
+    <string name="buton2">MAC</string>
+    <string name="boton3">acer</string>
+    <string name="boton4">HUAWEI</string>
+    <string name="boton5">DELL</string>
+    <string name="boton6">LENOVO</string>
+    <string name="img">Xiaomi</string>
+    <string name="boton7">MOUSE</string>
+    <string name="boton8">TECLADO</string>
+    <string name="boton9">SILLAS</string>
+    <string name="boton10">IMPRESORA</string>
+    <string name="hp1">HP</string>
+    <string name="hp" translatable="false">HP</string>
+    <string name="LAP1">LAPTOP HP CON 8 GB DE RAM DDR4, 1 TB EN DISCO SOLIDO, CORE I7 9TH.</string>
+    <string name="button1">REGRESAR</string>
+    <string name="button2">MAC</string>
+    <string name="mac1">MAC1</string>
+    <string name="mac2">COMPUTADORA MAC23 CON , 8 GB RAM DDR3, 500GB DE DISCO DURO, PANTALLA DE 15\", CORE I5 8TH.</string>
+    <string name="menu2">MENU</string>
+    <string name="button3">ACER</string>
+    <string name="acer1">ACER1</string>
+    <string name="ACER2">LAPTOP ACER,  16 GB RAM DDR4, 2 TB DE DISCO SOLIDO, CORE I9TH9</string>
+    <string name="button4">MENU</string>
+    <string name="huawei1">HUAWEI</string>
+    <string name="button7">huawei7</string>
+    <string name="button9">LAPTOP HUAWEI, 12 GB DE RAM, DISCO SOLIDO 1 TB, CORE I5 8TH</string>
+    <string name="BUTTON10">MENU</string>
+    <string name="button14">DELL</string>
+    <string name="dell12">DEL12</string>
+    <string name="boton133">COMPUTADORA DELL, 12GB DE RAM DDR4, 2 TB DISCO DURO, PANTALLA DE 20\", CORE I3 7 TH.</string>
+    <string name="BUTON1345">MENU</string>
+    <string name="boton345">LENOVO</string>
+    <string name="LENO123">LENOVO321</string>
+    <string name="BUTTON56">LAPTOP LENOVO, 8GB DE RAM DDR4, DISCO SOLIDO DE UN 1 TB, GTX 1050X, CORE I7 8TH.</string>
+    <string name="BUTTON567">MENU</string>
+    <string name="buton87">MOUSE GAMER</string>
+    <string name="botoin76">mouse098</string>
+    <string name="motion98">MOUSE GAMER, CON LUCES LED DE COLORES, 8 BOTONES PARA JUGAR, SENSIBILIDAD PARA JUGAR.</string>
+    <string name="BOTION23">MENU</string>
+    <string name="botion9871">TECLADO GAMER</string>
+    <string name="MOTION">TECLADO QWERTY GAMER, CON LUCES LED MULTICOLOR.</string>
+    <string name="TECLDO345">TECLADO87</string>
+    <string name="MOUI">MENU</string>
+    <string name="loi9">SILLA GAMER</string>
+    <string name="LOI">SILLA21</string>
+    <string name="OI9">SILLA GAMER, COLOR ROJO-NEGRO, DESCANSA PIES, ALMOADAS, PARA UN DESCANSO AL JUGAR.</string>
+    <string name="POI9">MENU</string>
+    <string name="hy6">IMPRESORA</string>
+    <string name="IMPRE098">IMPRESORA EPSON, TINTA CONTINUA, 6000 PAGINAS A NEGRO, 3500 A COLOR.</string>
+    <string name="POIYON">MENU</string>
+    <string name="LOP09">IMPRE45</string>
+
+</resources>
